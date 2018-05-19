@@ -23,6 +23,8 @@ namespace WpfAppGit
         public MainWindow()
         {
             InitializeComponent();
+
+            ;
         }
     }
 }
